@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-print("MAIN BRANCH -- MAIN BRANCH -- MAIN BRANCH")
-=======
-print("STANDARD TEST.py FILE -- HAS NOT BEEN CUSTOMIZED")
->>>>>>> 2fa01404cd5736ec535b0b14a7ce73222c91fd3b
+print("testing Dune")
